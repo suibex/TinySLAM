@@ -6,10 +6,16 @@
 
 
 <h1>What?</h1>
-Yes, this Monocular SLAM algorithm is below 300 lines of code.
+this Monocular SLAM algorithm is below 300 lines of code.
 <br>
 No idea how it got to that but ok.
+
+<h1>How?</h1>
 <br> This is my first try of SLAM so please just don't judge me ( i will judge myself in 3 months literally.)
 Built in Python (SLOW ASF)
 <br>
 Tested only on one video (i'm scared to try it on other ones).
+<br>
+Here to say that I actually haven't used any popular "SLAM" techniques, just my basic first-year high-school math and programming skills.
+
+
