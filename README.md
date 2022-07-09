@@ -16,6 +16,6 @@ Built in Python (SLOW ASF)
 <br>
 Tested only on one video (i'm scared to try it on other ones).
 <br>
-Here to say that I actually haven't used any popular "SLAM" techniques, just my basic first-year high-school math and programming skills.
+Here to say that I actually haven't used any popular "SLAM" techniques, just my first-year high-school math and programming skills.
 
 
