@@ -2,7 +2,7 @@
 
 """
     Zero Knowledge SLAM implementation in Python3
-        Ok i'm really bad at this and idk if this is right thing to do.
+       
         @author: nitrodegen
         @date: 9 July 2022.
 """
